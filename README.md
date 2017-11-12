@@ -1,5 +1,7 @@
 # Personal codeplugs for analog radios
 
-Kenwood TH-D72
+Manufacturers software:
+  * Kenwood TH-D72
 
-Baofeng BF-888s MAX
+CHIRP:
+  * Baofeng BF-888s MAX

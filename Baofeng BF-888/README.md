@@ -1,11 +1,8 @@
 # PMR446
 
-
-
 Channel | Frequency | Bandwidth | Comments (Channel / CTCSS)
 -- | -- | -- | -- 
-1 |	446.00625 MHz |	12.5 kHz |	FM => Emergency communication (1/12) 
-FM => Trucker (1/9)
+1 |	446.00625 MHz |	12.5 kHz |	FM => Emergency communication (1/12) FM => Trucker (1/9)
 2 |	446.01875 MHz |	12.5 kHz |	FM => Geocaching FM => Camping
 3 |	446.03125 MHz |	12.5 kHz |	FM => Prepper Canal, in disasters
 4 |	446.04375 MHz |	12.5 kHz |	FM => Drone-Pilot Intercom (4/14) FM => 4WD (4/4) FM => Boat (4/16)

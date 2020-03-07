@@ -4,10 +4,6 @@
 
 Channel | Frequency | Bandwidth | Comments (Channel / CTCSS)
 -- | -- | -- | -- 
-[293001](https://brandmeister.network/?page=repeater&id=293001) | [S55DMR](https://brandmeister.network/?page=lh&ContextID=%5E293001$) | Lisca, Sevnica | 293, 293112 | 29311, 29313 | 439.075 | 431.475 | 1 
-
-
- 	 	 	
 1 |	446.00625 MHz |	12.5 kHz |	FM => Emergency communication (1/12) FM => Trucker (1/9)
 2 |	446.01875 MHz |	12.5 kHz |	FM => Geocaching FM => Camping
 3 |	446.03125 MHz |	12.5 kHz |	FM => Prepper Canal, in disasters

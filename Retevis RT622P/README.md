@@ -5,6 +5,18 @@
 Out of the box the radio is programmed with PMR446 frequencies and classic Retevis subtone selection. 
 They will work with eachother, but to talk to other radios, you may need to set up the subtones the same on all of the used equipment.
 
+# Buttons
+- Volume knob + power
+- Up
+  - Short press: Channel up
+  - Long press: Monitor
+- Down
+  - Short press: Channel down
+  - Long press: Scan (Voice prompt for On/Off)
+- Menu button
+  - Short press: ?
+  - Long press: Lock (one beep = Locked, two beeps = Unlocked)
+
 # Programming
 
 Software can be found in the repo.

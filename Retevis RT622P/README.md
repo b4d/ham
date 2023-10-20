@@ -8,7 +8,9 @@ They will work with eachother, but to talk to other radios, you may need to set 
 # Programming
 
 Software can be found in the repo.
-Programming cable: [SKU J9138P](https://www.retevis.com/rt20-rt65-rb19-usb-programming-cable-eu), usb programming cable for RETEVIS RT20 RT65 RB19  RT22P Two Way Radio
+Programming cable: [SKU J9138P](https://www.retevis.com/rt20-rt65-rb19-usb-programming-cable-eu).
+
+The cable is plug and play on Windows 10. Just select the corresponding COM port in the CPS.
 
 # Unlocking
 

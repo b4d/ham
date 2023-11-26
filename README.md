@@ -1,9 +1,10 @@
-# Personal codeplugs for analog radios
+# Personal codeplug repository
 
-Manufacturers software:
+> Mostly S5 zones
+
+
   * Kenwood TH-D72
   * Retevis RT622P
-
-CHIRP:
   * Baofeng BF-888s MAX
   * Baofeng UV-3R
+  * Quansheng KV-6

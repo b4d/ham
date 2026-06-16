@@ -1,4 +1,4 @@
-# Quansheng UV-KV6 (UV-K5, UV-K5(8))
+# Quansheng UV-K6 (UV-K5, UV-K5(8))
 
 ## Cheatsheet
 

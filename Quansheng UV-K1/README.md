@@ -2,10 +2,10 @@
 
 ## Cheatsheet
 
-- Button 1 short press - Monitor
-- Button 1 long press - Power select
-- Button 2 short press - Monitor
-- Button 2 long press - Scan
+- Button 1 short press - VFO A/B
+- Button 1 long press - Scan
+- Button 2 short press - Power select
+- Button 2 long press - Monitor
 - Button MENU long press - RX mode
 
 ## Programming

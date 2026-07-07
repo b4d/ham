@@ -12,7 +12,7 @@
 
 Use CHIRP with installed module from https://github.com/armel/uv-k1-k5v3-firmware-custom/releases.
 
-> USB-C cable
+> USB-C cable (can't get it to work on macOS, so use Kenwood 2-pin)
 
 
 ## Flashing firmware
